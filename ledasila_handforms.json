@@ -1,0 +1,536 @@
+[
+  { "value": 1, "texts": ["Faust; Daumen angelegt"] },
+  { "value": 2, "texts": ["Faust; Daumen abgespreizt"] },
+  { "value": 3, "texts": ["Faust; Daumen eingelegt"] },
+  { "value": 4, "texts": ["Faust; Daumen zwischen Zeige- und Mittelfinger"] },
+  { "value": 5, "texts": ["Faust; Daumen zwischen Mittel- und Ringfinger"] },
+  {
+    "value": 53,
+    "texts": ["Faust; Daumen unter Zeige-, Mittel- und Ringfinger"]
+  },
+  { "value": 54, "texts": ["Faust; Daumen liegt unter den Fingern"] },
+  { "value": 57, "texts": ["Flachhand; Daumen angelegt"] },
+  { "value": 59, "texts": ["Flachhand abgewinkelt; Daumen angelegt"] },
+  { "value": 60, "texts": ["Flachhand gebogen; Daumen angelegt"] },
+  { "value": 61, "texts": ["Flachhand gekrümmt; Daumen angelegt"] },
+  { "value": 62, "texts": ["Flachhand; Daumen abgespreizt"] },
+  { "value": 64, "texts": ["Flachhand abgewinkelt; Daumen abgespreizt"] },
+  { "value": 65, "texts": ["Flachhand gebogen; Daumen abgespreizt gebogen"] },
+  { "value": 68, "texts": ["Flachhand gebogen; Daumen abgespreizt"] },
+  { "value": 69, "texts": ["Flachhand gekrümmt; Daumen abgespreizt gekrümmt"] },
+  { "value": 70, "texts": ["Flachhand gekrümmt; Daumen abgespreizt"] },
+  { "value": 71, "texts": ["Flachhand; Daumen eingelegt"] },
+  {
+    "value": 72,
+    "texts": ["Flachhand; Kleiner Finger gekrümmt, Daumen auf KF"]
+  },
+  { "value": 73, "texts": ["Flachhand abgewinkelt; Daumen eingelegt"] },
+  { "value": 74, "texts": ["Flachhand gebogen; Daumen eingelegt"] },
+  { "value": 75, "texts": ["Flachhand gekrümmt; Daumen eingelegt"] },
+  { "value": 76, "texts": ["Faust; Zeigefinger abgestreckt, Daumen angelegt"] },
+  {
+    "value": 77,
+    "texts": ["Faust; Zeigefinger abgewinkelt,  Daumen angelegt"]
+  },
+  {
+    "value": 78,
+    "texts": ["Faust; Kleiner Finger abgewinkelt, Daumen angelegt"]
+  },
+  { "value": 79, "texts": ["Faust; Zeigefinger gebogen, Daumen angelegt"] },
+  { "value": 81, "texts": ["Faust; Zeigefinger gekrümmt,  Daumen angelegt"] },
+  {
+    "value": 82,
+    "texts": ["Faust; Zeigefinger abgestreckt, Daumen abgespreizt"]
+  },
+  {
+    "value": 83,
+    "texts": ["Faust; Zeigefinger abgestreckt, Daumen abgespreizt gekrümmt"]
+  },
+  { "value": 85, "texts": ["Faust; Kleiner Finger und Daumen abgestreckt"] },
+  {
+    "value": 86,
+    "texts": ["Faust; Zeigefinger abgewinkelt, Daumen abgespreizt"]
+  },
+  {
+    "value": 87,
+    "texts": ["Faust; Zeigefinger gebogen, Daumen abgespreizt gebogen"]
+  },
+  { "value": 88, "texts": ["Faust; Zeigefinger gebogen, Daumen abgespreizt"] },
+  {
+    "value": 89,
+    "texts": ["Faust; ZF  gekrümmt,  Daumen abgespreizt gekrümmt"]
+  },
+  { "value": 90, "texts": ["Faust; Zeigefinger gekrümmt, Daumen abgespreizt"] },
+  {
+    "value": 91,
+    "texts": ["Faust; Zeigefinger abgewinkelt, Daumen eingelegt"]
+  },
+  { "value": 92, "texts": ["Faust; Zeigefinger gebogen, Daumen eingelegt"] },
+  { "value": 94, "texts": ["Faust; Zeigefinger gekrümmt,  Daumen eingelegt"] },
+  {
+    "value": 95,
+    "texts": [
+      "Faust; Zeigefinger abgestreckt, Daumen unter den restlichen Fingern"
+    ]
+  },
+  {
+    "value": 96,
+    "texts": ["Faust; Kleiner Finger abgestreckt, Daumen eingelegt"]
+  },
+  {
+    "value": 97,
+    "texts": ["Faust; Zeigefinger abgestreckt,  Daumen eingelegt"]
+  },
+  {
+    "value": 98,
+    "texts": ["Faust; Mittelfinger abgestreckt, Daumen eingelegt"]
+  },
+  {
+    "value": 99,
+    "texts": ["Faust; ZF und MF abgestreckt geschlossen, Daumen angelegt"]
+  },
+  {
+    "value": 100,
+    "texts": ["Faust; ZF und MF geschlossen abgewinkelt, Daumen angelegt"]
+  },
+  {
+    "value": 101,
+    "texts": ["Faust; ZF und MF geschlossen gebogen, Daumen angelegt"]
+  },
+  {
+    "value": 102,
+    "texts": ["Faust; ZF und MF geschlossen gekrümmt, Daumen angelegt"]
+  },
+  {
+    "value": 103,
+    "texts": ["Faust; ZF und MF geschlossen abgestreckt, Daumen abgespreizt"]
+  },
+  {
+    "value": 104,
+    "texts": ["Faust; ZF und MF geschlossen abgewinkelt, Daumen abgespreizt"]
+  },
+  {
+    "value": 105,
+    "texts": [
+      "Faust; ZF und MF geschlossen gebogen, Daumen abgespreizt gebogen"
+    ]
+  },
+  {
+    "value": 106,
+    "texts": ["Faust; ZF und MF geschlossen gebogen, Daumen abgespreizt"]
+  },
+  {
+    "value": 107,
+    "texts": [
+      "Faust; ZF und MF geschlossen gekrümmt, Daumen abgespreizt gekrümmt"
+    ]
+  },
+  {
+    "value": 108,
+    "texts": ["Faust; ZF und MF geschlossen gekrümmt, Daumen abgespreizt"]
+  },
+  {
+    "value": 109,
+    "texts": ["Faust; ZF und MF abgestreckt geschlossen, Daumen eingelegt"]
+  },
+  {
+    "value": 110,
+    "texts": ["Faust; ZF unter MF abgestreckt geschlossen, Daumen eingelegt"]
+  },
+  {
+    "value": 111,
+    "texts": ["Faust; MF unter ZF abgestreckt geschlossen, Daumen eingelegt"]
+  },
+  {
+    "value": 112,
+    "texts": ["Faust; ZF und MF geschlossen abgewinkelt, Daumen eingelegt"]
+  },
+  {
+    "value": 113,
+    "texts": ["Faust; ZF und MF geschlossen gebogen, Daumen eingelegt"]
+  },
+  {
+    "value": 114,
+    "texts": ["Faust; ZF und MF geschlossen gekrümmt, Daumen eingelegt"]
+  },
+  {
+    "value": 118,
+    "texts": ["Faust; ZF und MF abgestreckt offen, Daumen angelegt"]
+  },
+  {
+    "value": 119,
+    "texts": ["Faust; ZF und MF offen abgewinkelt, Daumen abgespreizt"]
+  },
+  {
+    "value": 123,
+    "texts": ["Faust; ZF und MF offen abgewinkelt, Daumen angelegt"]
+  },
+  {
+    "value": 124,
+    "texts": ["Faust; ZF und MF offen gekrümmt, Daumen angelegt"]
+  },
+  {
+    "value": 212,
+    "texts": ["Faust; ZF und MF offen gebogen, Daumen abgespreizt gebogen"]
+  },
+  {
+    "value": 214,
+    "texts": ["Faust; ZF und MF offen gebogen, Daumen abgespreizt"]
+  },
+  {
+    "value": 215,
+    "texts": ["Faust; ZF und MF offen gekrümmt, Daumen abgespreizt gekrümmt"]
+  },
+  {
+    "value": 216,
+    "texts": ["Faust; ZF und MF offen gekrümmt, Daumen abgespreizt"]
+  },
+  {
+    "value": 217,
+    "texts": ["Faust; ZF und MF offen abgestreckt, Daumen eingelegt"]
+  },
+  { "value": 218, "texts": ["Faust; ZF und KF abgestreckt, Daumen eingelegt"] },
+  {
+    "value": 219,
+    "texts": ["Faust; ZF und MF offen abgewinkelt, Daumen eingelegt"]
+  },
+  {
+    "value": 220,
+    "texts": ["Faust; ZF und MF offen gebogen, Daumen eingelegt"]
+  },
+  {
+    "value": 221,
+    "texts": ["Faust; ZF und MF offen gekrümmt, Daumen eingelegt"]
+  },
+  {
+    "value": 222,
+    "texts": ["Faust; ZF und KF abgestreckt, Daumen abgespreizt"]
+  },
+  {
+    "value": 223,
+    "texts": ["Faust; ZF und MF  offen abgestreckt,  Daumen abgespreizt"]
+  },
+  {
+    "value": 224,
+    "texts": ["Faust; ZF und MF offen abgestreckt, Daumen auf MF"]
+  },
+  {
+    "value": 225,
+    "texts": ["Faust; ZF und MF offen gebogen, Daumen angelegt"]
+  },
+  {
+    "value": 226,
+    "texts": ["Faust; ZF abgestreckt MF abgewinkelt, Daumen auf MF"]
+  },
+  { "value": 227, "texts": ["Fünffingerhand; Daumen angelegt"] },
+  { "value": 228, "texts": ["Fünffingerhand abgewinkelt; Daumen angelegt"] },
+  { "value": 229, "texts": ["Fünffingerhand gebogen; Daumen angelegt"] },
+  { "value": 230, "texts": ["Fünffingerhand gekrümmt; Daumen angelegt"] },
+  { "value": 231, "texts": ["Fünffingerhand; Daumen abgespreizt"] },
+  {
+    "value": 232,
+    "texts": ["Fünffingerhand; ZF abgewinkelt, Daumen abgespreizt"]
+  },
+  {
+    "value": 233,
+    "texts": ["Fünffingerhand; MF abgewinkelt, Daumen abgespreizt"]
+  },
+  {
+    "value": 234,
+    "texts": ["Fünffingerhand; RF abgewinkelt, Daumen abgespreizt"]
+  },
+  {
+    "value": 235,
+    "texts": ["Fünffingerhand; KF gekrümmt, Daumen abgespreizt"]
+  },
+  {
+    "value": 236,
+    "texts": ["Fünffingerhand abgewinkelt; Daumen abgestreckt, parallel zu ZF"]
+  },
+  { "value": 237, "texts": ["Fünffingerhand abgewinkelt; Daumen abgespreizt"] },
+  {
+    "value": 238,
+    "texts": ["Fünffingerhand gebogen; Daumen leicht gebogen, parallel zu ZF"]
+  },
+  { "value": 239, "texts": ["Fünffingerhand gebogen; Daumen abgespreizt"] },
+  {
+    "value": 240,
+    "texts": ["Fünffingerhand gekrümmt; Daumen abgespreizt gekrümmt"]
+  },
+  { "value": 242, "texts": ["Fünffingerhand gekrümmt; Daumen abgespreizt"] },
+  { "value": 243, "texts": ["Fünffingerhand; Daumen eingelegt"] },
+  { "value": 244, "texts": ["Fünffingerhand abgewinkelt; Daumen eingelegt"] },
+  { "value": 245, "texts": ["Fünffingerhand gebogen; Daumen eingelegt"] },
+  { "value": 246, "texts": ["Fünffingerhand gekrümmt; Daumen eingelegt"] },
+  {
+    "value": 247,
+    "texts": ["Faust; ZF gebogen, Daumenspitze berührt ZF-Spitze"]
+  },
+  {
+    "value": 248,
+    "texts": [
+      "Faust; ZF und MF geschlossen gebogen, Daumen berührt ZF/MF-Nägel"
+    ]
+  },
+  {
+    "value": 249,
+    "texts": ["Faust; ZF abgewinkelt, Daumenspitze berührt ZF-Spitze"]
+  },
+  {
+    "value": 250,
+    "texts": [
+      "Flachhand gebogen; ZF abgestreckt, Daumenspitze berührt MF-Spitze"
+    ]
+  },
+  {
+    "value": 251,
+    "texts": ["Faust; ZF und Daumen gebogen, ZF-Nagel auf Daumenspitze"]
+  },
+  {
+    "value": 252,
+    "texts": ["Faust; ZF und MF abgewinkelt, Daumenspitze berührt ZF/MF-Spitze"]
+  },
+  {
+    "value": 253,
+    "texts": ["Faust; ZF und MF gebogen, Daumen auf ZF/MF-Nägel"]
+  },
+  {
+    "value": 254,
+    "texts": ["Faust; ZF gekrümmt, Daumen gebogen auf ZF-Nagel"]
+  },
+  { "value": 255, "texts": ["Faust; ZF gebogen, Daumen auf ZF-Spitze"] },
+  { "value": 256, "texts": ["Faust; ZF gebogen, Daumennagel im Bogen des ZF"] },
+  {
+    "value": 257,
+    "texts": ["Flachhand gebogen; Daumenspitze berührt ZF/MF/RF-Spitzen"]
+  },
+  {
+    "value": 258,
+    "texts": ["Flachhand gebogen; Daumenspitze berührt ZF-Spitze"]
+  },
+  { "value": 259, "texts": ["Flachhand abgewinkelt; Daumen berührt MF"] },
+  {
+    "value": 260,
+    "texts": ["Flachhand abgewinkelt; Daumen berührt ZF seitlich"]
+  },
+  { "value": 261, "texts": ["Flachhand gebogen; Daumen auf ZF/MF-Nägel"] },
+  { "value": 262, "texts": ["Flachhand gekrümmt; Daumen auf ZF/MF 1. Glied"] },
+  {
+    "value": 263,
+    "texts": [
+      "Fünffingerhand l. gebogen; ZF gebogen, Daumenspitze berührt ZF-Spitze"
+    ]
+  },
+  {
+    "value": 264,
+    "texts": [
+      "Fünffingerhand l. gebogen; MF gebogen, Daumenspitze berührt MF-Spitze"
+    ]
+  },
+  {
+    "value": 265,
+    "texts": [
+      "Fünffingerhand geneigt; ZF abgewinkelt, Daumenspitze berührt ZF-Spitze"
+    ]
+  },
+  {
+    "value": 266,
+    "texts": ["Fünffingerhand; MF abgewinkelt, Daumenspitze berührt MF-Spitze"]
+  },
+  {
+    "value": 267,
+    "texts": ["Fünffingerhand; RF abgewinkelt, Daumenspitze berührt RF-Spitze"]
+  },
+  {
+    "value": 268,
+    "texts": ["Fünffingerhand; KF abgewinkelt, Daumenspitze berührt KF-Spitze"]
+  },
+  {
+    "value": 269,
+    "texts": ["Fünffingerhand l. gebogen; ZF gebogen, Daumen auf ZF-Nagel"]
+  },
+  {
+    "value": 270,
+    "texts": ["Fünffingerhand; MF gebogen, Daumen auf MF-Nagel"]
+  },
+  {
+    "value": 271,
+    "texts": ["Fünffingerhand l. gebogen; ZF gekrümmt, Daumen auf ZF-1. Glied"]
+  },
+  { "value": 272, "texts": ["Fünffingerhand; KF gekrümmt, Daumen auf KF"] },
+  { "value": 273, "texts": ["Faust; ZF und Daumen gebogen, parallel zu ZF"] },
+  {
+    "value": 274,
+    "texts": [
+      "Faust; ZF und MF geschlossen gebogen, Daumen gebogen, parallel zu ZF"
+    ]
+  },
+  {
+    "value": 275,
+    "texts": ["Faust; ZF abgewinkelt, Daumen abgestreckt, parallel zu ZF"]
+  },
+  {
+    "value": 276,
+    "texts": [
+      "Faust; ZF und MF abgewinkelt, Daumen abgestreckt, parallel zu ZF"
+    ]
+  },
+  {
+    "value": 277,
+    "texts": [
+      "Faust; MF abgewinkelt, ZF-Spitze berührt 2.Glied MF, D abgestr., parallel zu ZF"
+    ]
+  },
+  {
+    "value": 278,
+    "texts": ["Faust; ZF und Daumen gebogen nah,parallel zu ZF"]
+  },
+  {
+    "value": 279,
+    "texts": ["Faust; ZF abgewinkelt, Daumen abgestreckt nah, parallel zu ZF"]
+  },
+  {
+    "value": 280,
+    "texts": ["Faust; ZF gebogen, Daumen abgestreckt, parallel zu ZF"]
+  },
+  {
+    "value": 281,
+    "texts": ["Faust; ZF abgewinkelt, Daumen abgestreckt fern, parallel zu ZF"]
+  },
+  {
+    "value": 282,
+    "texts": ["Flachhand l. gebogen; Daumen abgestreckt  l. gebogen"]
+  },
+  {
+    "value": 283,
+    "texts": ["Flachhand geneigt; Daumen abgestreckt, parallel to ZF"]
+  },
+  {
+    "value": 284,
+    "texts": ["Flachhand gebogen; Daumen leicht gebogen nah, parallel zu ZF"]
+  },
+  {
+    "value": 285,
+    "texts": ["Flachhand abgewinkelt; Daumen abgestreckt nah, parallel zu ZF"]
+  },
+  { "value": 286, "texts": ["Flachhand l. gebogen; Daumen abgestreckt"] },
+  {
+    "value": 287,
+    "texts": ["Flachhand geneigt; Daumen abgestreckt fern, parallel zu ZF"]
+  },
+  {
+    "value": 288,
+    "texts": [
+      "Fünffingerhand l. gebogen; ZF gebogen, Daumen gebogen, parallel zu ZF"
+    ]
+  },
+  {
+    "value": 289,
+    "texts": ["Fünffingerhand; MF gebogen, Daumen gebogen, parallel zu MF"]
+  },
+  {
+    "value": 290,
+    "texts": [
+      "Fünffingerhand geneigt; ZF abgewinkelt, Daumen abgestreckt nah, parallel zu ZF"
+    ]
+  },
+  {
+    "value": 291,
+    "texts": [
+      "Fünffingerhand; MF abgewinkelt, Daumen abgestreckt, parallel zu MF"
+    ]
+  },
+  {
+    "value": 292,
+    "texts": [
+      "Fünffingerhand; RF abgewinkelt, Daumen parallel zu RF abgestreckt"
+    ]
+  },
+  {
+    "value": 293,
+    "texts": [
+      "Fünffingerhand; KF abgewinkelt, Daumen abgestreckt, parallel to KF"
+    ]
+  },
+  {
+    "value": 294,
+    "texts": [
+      "Fünffingerhand leicht gebogen; ZF gebogen, Daumen gebogen nah, parallel zu ZF"
+    ]
+  },
+  {
+    "value": 295,
+    "texts": [
+      "Fünffingerhand geneigt; ZF abgewinkelt, Daumen abgestr. nah, parallel to ZF"
+    ]
+  },
+  {
+    "value": 296,
+    "texts": [
+      "Fünffingerhand l. gebogen; ZF gebogen, Daumen abgestreckt, prallel zu ZF"
+    ]
+  },
+  {
+    "value": 297,
+    "texts": [
+      "Fünffingerhand geneigt; ZF abgewinkelt, Daumen abgestreckt fern, parallel zu ZF"
+    ]
+  },
+  {
+    "value": 313,
+    "texts": ["Faust; ZF abgestreckt, MF gebogen Daumen berührt MF-Spitze"]
+  },
+  {
+    "value": 314,
+    "texts": ["Fünffingerhand; ZF gebogen, Daumenspitze berührt ZF-Spitze"]
+  },
+  {
+    "value": 315,
+    "texts": ["Faust; Kleiner Finger abgestreckt, Daumen angelegt"]
+  },
+  {
+    "value": 317,
+    "texts": ["Flachhand; ZF gebogen, Daumenspitze berührt ZF-Spitze"]
+  },
+  {
+    "value": 318,
+    "texts": ["Fünffingerhand; ZF gebogen, Daumen auf ZF - 2. Glied"]
+  },
+  {
+    "value": 440,
+    "texts": ["Fünffingerhand; RF gebogen, Daumenspitze berührt RF-Spitze"]
+  },
+  {
+    "value": 441,
+    "texts": ["Fünffingerhand; ZF abgewinkelt, Daumenspitze berührt ZF-Spitze"]
+  },
+  { "value": 442, "texts": ["Flachhand gebogen; Daumen abgespreizt"] },
+  { "value": 443, "texts": ["Flachhand leicht gebogen; Daumen abgespreizt"] },
+  {
+    "value": 444,
+    "texts": ["Fünffingerhand gebogen; Daumen gebogen, parallel zu ZF"]
+  },
+  { "value": 445, "texts": ["Faust; ZF leicht gebogen, Daumen abgestreckt"] },
+  { "value": 446, "texts": ["Faust; ZF gebogen, Daumen abgespreizt"] },
+  {
+    "value": 447,
+    "texts": ["Faust; ZF leicht gebogen ODER abgewinkelt, MF gekrümmt"]
+  },
+  {
+    "value": 448,
+    "texts": ["Fünffingerhand leicht gebogen; KF und Daumen leicht gebogen"]
+  },
+  {
+    "value": 449,
+    "texts": ["Fünffingerhand; RF und KF Spitze berühren Handfläche"]
+  },
+  {
+    "value": 450,
+    "texts": ["Fünffingerhand gebogen; Daumen leicht abgespreizt"]
+  },
+  {
+    "value": 451,
+    "texts": ["Fünffingerhand; MF leicht abgewinkelt, Daumen abgespreizt"]
+  },
+  { "value": 452, "texts": ["Fünffingerhand; ZF gebogen, Daumen auf ZF-Nagel"] }
+]
